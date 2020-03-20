@@ -1,0 +1,605 @@
+    1  2020-03-20 22:40:56 ls
+    2  2020-03-20 22:40:56 cd..
+    3  2020-03-20 22:40:56 cd/
+    4  2020-03-20 22:40:56 ranganath
+    5  2020-03-20 22:40:56 ranga.java
+    6  2020-03-20 22:40:56 java prime.java
+    7  2020-03-20 22:40:56 password
+    8  2020-03-20 22:40:56 user "root"
+    9  2020-03-20 22:40:56 use "sudo <command>"
+   10  2020-03-20 22:40:56 sudo apt install
+   11  2020-03-20 22:40:56 echo'#!/bin/sh'
+   12  2020-03-20 22:40:56 echo'#!/bin/sh'>my-scrit.sh
+   13  2020-03-20 22:40:56 cat /etc/shells
+   14  2020-03-20 22:40:56 which bash
+   15  2020-03-20 22:40:56 clear
+   16  2020-03-20 22:40:56 cd desktop/
+   17  2020-03-20 22:40:56 cd Desktop
+   18  2020-03-20 22:40:56 cd Desktop/
+   19  2020-03-20 22:40:56 cd Downloads/
+   20  2020-03-20 22:40:56 cd files/
+   21  2020-03-20 22:40:56 cd..
+   22  2020-03-20 22:40:56 cd Desktop/
+   23  2020-03-20 22:40:56 cd ./Desktop
+   24  2020-03-20 22:40:56 cd ls
+   25  2020-03-20 22:40:56 ls
+   26  2020-03-20 22:40:56 cd ..
+   27  2020-03-20 22:40:56 ls
+   28  2020-03-20 22:40:56 cd ..
+   29  2020-03-20 22:40:56 ls
+   30  2020-03-20 22:40:56 cd Desktop/
+   31  2020-03-20 22:40:56 ls
+   32  2020-03-20 22:40:56 cd files/
+   33  2020-03-20 22:40:56 cd bin
+   34  2020-03-20 22:40:56 ls
+   35  2020-03-20 22:40:56 cd..
+   36  2020-03-20 22:40:56 cd
+   37  2020-03-20 22:40:56 ls
+   38  2020-03-20 22:40:56 cd.
+   39  2020-03-20 22:40:56 ls
+   40  2020-03-20 22:40:56 cd desktop
+   41  2020-03-20 22:40:56 cd desktop/
+   42  2020-03-20 22:40:56 getit hello
+   43  2020-03-20 22:40:56 git init
+   44  2020-03-20 22:40:56 cd .
+   45  2020-03-20 22:40:56 ls
+   46  2020-03-20 22:40:56 cd ..
+   47  2020-03-20 22:40:56 ls
+   48  2020-03-20 22:40:56 cd ..
+   49  2020-03-20 22:40:56 ls
+   50  2020-03-20 22:40:56 cd Desktop/
+   51  2020-03-20 22:40:56 ls
+   52  2020-03-20 22:40:56 sudo apt install git-all
+   53  2020-03-20 22:40:56 sudo apt install git.all
+   54  2020-03-20 22:40:56 sudo at install git-all
+   55  2020-03-20 22:40:56 sudo ap\t install git-all
+   56  2020-03-20 22:40:56 sudo apt install git-all
+   57  2020-03-20 22:40:56 sudo apt udate
+   58  2020-03-20 22:40:56 sudo apt update
+   59  2020-03-20 22:40:56 sudo apt install git-all
+   60  2020-03-20 22:40:56 nano helloworld.java
+   61  2020-03-20 22:40:56 touch helloworld.java
+   62  2020-03-20 22:40:56 nano helloworld.java
+   63  2020-03-20 22:40:56 javac helloworld.java
+   64  2020-03-20 22:40:56 java HelloWorld
+   65  2020-03-20 22:40:56 
+   66  2020-03-20 22:40:56 sudo apt install openjdk-11-jdk-headless
+   67  2020-03-20 22:40:56 cd Desktop/
+   68  2020-03-20 22:40:56 sudo apt install openjdk-11-jre-headless
+   69  2020-03-20 22:40:56 ls
+   70  2020-03-20 22:40:56 javac helloworld.java
+   71  2020-03-20 22:40:56 sudo apt install default-jdk
+   72  2020-03-20 22:40:56 javac
+   73  2020-03-20 22:40:56 sudo apt install openjdk-11-jdk-headless
+   74  2020-03-20 22:40:56 javac
+   75  2020-03-20 22:40:56 javac helloworld.java
+   76  2020-03-20 22:40:56 nano helloworld.java
+   77  2020-03-20 22:40:56 javac helloworld.java
+   78  2020-03-20 22:40:56 java HelloWorld
+   79  2020-03-20 22:40:56 fg %1
+   80  2020-03-20 22:40:56 bg %1
+   81  2020-03-20 22:40:56 fgfg %1
+   82  2020-03-20 22:40:56 nano helloworld.java
+   83  2020-03-20 22:40:56 java HelloWorld
+   84  2020-03-20 22:40:56 nano helloworld.java
+   85  2020-03-20 22:40:56 java HelloWorld
+   86  2020-03-20 22:40:56 ps -elf | grep javaps -elf | grep java
+   87  2020-03-20 22:40:56 java helloworld.java
+   88  2020-03-20 22:40:56 javac helloworld.java
+   89  2020-03-20 22:40:56 ps -elf | grep java
+   90  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep
+   91  2020-03-20 22:40:56 grep java
+   92  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep
+   93  2020-03-20 22:40:56 kill 1976
+   94  2020-03-20 22:40:56 jobs
+   95  2020-03-20 22:40:56 java HelloWorld
+   96  2020-03-20 22:40:56 fg %1
+   97  2020-03-20 22:40:56 javac helloWorld.java
+   98  2020-03-20 22:40:56 javac helloworld.java
+   99  2020-03-20 22:40:56 jobs
+  100  2020-03-20 22:40:56 java HelloWorld
+  101  2020-03-20 22:40:56 jobs
+  102  2020-03-20 22:40:56 kill 1796
+  103  2020-03-20 22:40:56 jobs
+  104  2020-03-20 22:40:56 kill 1976
+  105  2020-03-20 22:40:56 jobs
+  106  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep
+  107  2020-03-20 22:40:56 helloworld &
+  108  2020-03-20 22:40:56 jobs
+  109  2020-03-20 22:40:56 kill 2250
+  110  2020-03-20 22:40:56 HelloWorld &
+  111  2020-03-20 22:40:56 jobs
+  112  2020-03-20 22:40:56 kill all java
+  113  2020-03-20 22:40:56 jobs
+  114  2020-03-20 22:40:56 java HelloWorld
+  115  2020-03-20 22:40:56 killall java
+  116  2020-03-20 22:40:56 jobs
+  117  2020-03-20 22:40:56 ps -elf | grep
+  118  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep | awk 
+  119  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep | awk '{print $2}'
+  120  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep | awk '{print $1}'
+  121  2020-03-20 22:40:56 ps -elf | grep
+  122  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep
+  123  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep | awk '{print $1}'
+  124  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep | awk '{print $6}'
+  125  2020-03-20 22:40:56 history | grep
+  126  2020-03-20 22:40:56 history | grep java
+  127  2020-03-20 22:40:56 echo $mypid
+  128  2020-03-20 22:40:56 ps -elf | grep java | grep -v grep | awk '{print $6}'
+  129  2020-03-20 22:40:56 ps -elf | awk '{print $6}'
+  130  2020-03-20 22:40:56 ps -elf
+  131  2020-03-20 22:40:56 ps -elf | grep bash
+  132  2020-03-20 22:40:56 ps -elf | grep bash | grep -v grep
+  133  2020-03-20 22:40:56 ps -elf | grep bash | grep -v grep | awk '{print $4}'
+  134  2020-03-20 22:40:56 x=`ps -elf | grep bash | grep -v grep | awk '{print $4}'`
+  135  2020-03-20 22:40:56 echo $x
+  136  2020-03-20 22:40:56 kill $x
+  137  2020-03-20 22:40:56 x=`ps -elf | grep bash | grep -v grep | awk '{print $3}'`
+  138  2020-03-20 22:40:56 echo $x
+  139  2020-03-20 22:40:56 echo hello tom | awk `BEGIN {s2="adam"} END {print $0}`
+  140  2020-03-20 22:40:56 echo hello tom | awk 'BEGIN {s2="adam"} END {print $0}'
+  141  2020-03-20 22:40:56 histroy >> touch text.txt
+  142  2020-03-20 22:40:56 history >> touch his.txt
+  143  2020-03-20 22:40:56 echo $history
+  144  2020-03-20 22:40:56 history > touch his.txt
+  145  2020-03-20 22:40:56 history > his.txt
+  146  2020-03-20 22:40:56 cat his.txt
+  147  2020-03-20 22:40:56 cd -
+  148  2020-03-20 22:40:56 cd linux-content/
+  149  2020-03-20 22:40:56 cd terminalcommand
+  150  2020-03-20 22:40:56 cd -
+  151  2020-03-20 22:40:56 cd ~
+  152  2020-03-20 22:40:56 ls
+  153  2020-03-20 22:40:56 ls ..
+  154  2020-03-20 22:40:56 ls
+  155  2020-03-20 22:40:56 cd Desktop
+  156  2020-03-20 22:40:56 cd --
+  157  2020-03-20 22:40:56 ls
+  158  2020-03-20 22:40:56 history >> history.txt
+  159  2020-03-20 22:40:56 history > history.txt
+  160  2020-03-20 22:40:56 history.txt
+  161  2020-03-20 22:40:56 history > touch history.txt
+  162  2020-03-20 22:40:56 ls
+  163  2020-03-20 22:40:56 history > his.txt
+  164  2020-03-20 22:40:56 touch history.txt
+  165  2020-03-20 22:40:56 history > history.txt
+  166  2020-03-20 22:40:56 history.txt
+  167  2020-03-20 22:40:56 history >> history.txt
+  168  2020-03-20 22:40:56 history.txt
+  169  2020-03-20 22:40:56 his.txt
+  170  2020-03-20 22:40:56 ls
+  171  2020-03-20 22:40:56 cd his.txt
+  172  2020-03-20 22:40:56 ls
+  173  2020-03-20 22:40:56 history >> his.txt
+  174  2020-03-20 22:40:56 his.txt
+  175  2020-03-20 22:40:56 cat history.txt
+  176  2020-03-20 22:40:56 ls
+  177  2020-03-20 22:40:56 cd -
+  178  2020-03-20 22:40:56 cd ..
+  179  2020-03-20 22:40:56 ls
+  180  2020-03-20 22:40:56 cd .
+  181  2020-03-20 22:40:56 ls
+  182  2020-03-20 22:40:56 cd ranganath
+  183  2020-03-20 22:40:56 ls
+  184  2020-03-20 22:40:56 ls ..
+  185  2020-03-20 22:40:56 ls .
+  186  2020-03-20 22:40:56 ls
+  187  2020-03-20 22:40:56 cd .
+  188  2020-03-20 22:40:56 ls
+  189  2020-03-20 22:40:56 cd ~
+  190  2020-03-20 22:40:56 ls
+  191  2020-03-20 22:40:56 cd -
+  192  2020-03-20 22:40:56 ls
+  193  2020-03-20 22:40:56 cd --
+  194  2020-03-20 22:40:56 ls
+  195  2020-03-20 22:40:56 cd ..
+  196  2020-03-20 22:40:56 ls
+  197  2020-03-20 22:40:56 cd Desktop
+  198  2020-03-20 22:40:56 cd ..
+  199  2020-03-20 22:40:56 cd Desktop
+  200  2020-03-20 22:40:56 cd -
+  201  2020-03-20 22:40:56 ls
+  202  2020-03-20 22:40:56 cd terminalcommands
+  203  2020-03-20 22:40:56 cat home
+  204  2020-03-20 22:40:56 cat 
+  205  2020-03-20 22:40:56 cd Desktop
+  206  2020-03-20 22:40:56 ls
+  207  2020-03-20 22:40:56 pwd
+  208  2020-03-20 22:40:56 ls
+  209  2020-03-20 22:40:56 cd ..
+  210  2020-03-20 22:40:56 ls
+  211  2020-03-20 22:40:56 cd ranganath
+  212  2020-03-20 22:40:56 ls
+  213  2020-03-20 22:40:56 cd -
+  214  2020-03-20 22:40:56 ls
+  215  2020-03-20 22:40:56 cd ..
+  216  2020-03-20 22:40:56 ls
+  217  2020-03-20 22:40:56 cd ..
+  218  2020-03-20 22:40:56 ls
+  219  2020-03-20 22:40:56 javac
+  220  2020-03-20 22:40:56 ls
+  221  2020-03-20 22:40:56 cd Desktop
+  222  2020-03-20 22:40:56 %userprofile%/desktop
+  223  2020-03-20 22:40:56 ls
+  224  2020-03-20 22:40:56 cd Desktop
+  225  2020-03-20 22:40:56 %userprofile%/Desktop
+  226  2020-03-20 22:40:56 cd Dsktop
+  227  2020-03-20 22:40:56 cd Dsktop/
+  228  2020-03-20 22:40:56 cd Desktop/
+  229  2020-03-20 22:40:56 ls /mnt/
+  230  2020-03-20 22:40:56 ls c
+  231  2020-03-20 22:40:56 ls
+  232  2020-03-20 22:40:56 ls /mnt/c
+  233  2020-03-20 22:40:56 ls -l
+  234  2020-03-20 22:40:56 pwd
+  235  2020-03-20 22:40:56 ls
+  236  2020-03-20 22:40:56 cd /mnt/c
+  237  2020-03-20 22:40:56 ls -la
+  238  2020-03-20 22:40:56 cd Home
+  239  2020-03-20 22:40:56 cd home
+  240  2020-03-20 22:40:56 cd users/
+  241  2020-03-20 22:40:56 ls
+  242  2020-03-20 22:40:56 cd
+  243  2020-03-20 22:40:56 ls
+  244  2020-03-20 22:40:56 cd users
+  245  2020-03-20 22:40:56 cd home
+  246  2020-03-20 22:40:56 cd users/
+  247  2020-03-20 22:40:56 cd /mnt/c
+  248  2020-03-20 22:40:56 cd home
+  249  2020-03-20 22:40:56 ls
+  250  2020-03-20 22:40:56 cd /mnt/user
+  251  2020-03-20 22:40:56 nano his.txt
+  252  2020-03-20 22:40:56 ls
+  253  2020-03-20 22:40:56 cat his.txt
+  254  2020-03-20 22:40:56 cat history.txt
+  255  2020-03-20 22:40:56 cat his.txt
+  256  2020-03-20 22:40:56 cd terminalcommands
+  257  2020-03-20 22:40:56 pwd
+  258  2020-03-20 22:40:56 cd .
+  259  2020-03-20 22:40:56 ls
+  260  2020-03-20 22:40:56 cd ..
+  261  2020-03-20 22:40:56 pwd
+  262  2020-03-20 22:40:56 cd Desktop/
+  263  2020-03-20 22:40:56 pwd
+  264  2020-03-20 22:40:56 ls
+  265  2020-03-20 22:40:56 ls -la
+  266  2020-03-20 22:40:56 ls /mnt/
+  267  2020-03-20 22:40:56 ls
+  268  2020-03-20 22:40:56 cd /mnt/c
+  269  2020-03-20 22:40:56 ls -la
+  270  2020-03-20 22:40:56 cd users/
+  271  2020-03-20 22:40:56 ls
+  272  2020-03-20 22:40:56 cd heros
+  273  2020-03-20 22:40:56 ls
+  274  2020-03-20 22:40:56 cd Desktop/
+  275  2020-03-20 22:40:56 ls
+  276  2020-03-20 22:40:56 ls -ls
+  277  2020-03-20 22:40:56 touch test.txt
+  278  2020-03-20 22:40:56 ls
+  279  2020-03-20 22:40:56 cd history
+  280  2020-03-20 22:40:56 ls
+  281  2020-03-20 22:40:56 cat history.txt
+  282  2020-03-20 22:40:56 git int
+  283  2020-03-20 22:40:56 git init
+  284  2020-03-20 22:40:56 git add .
+  285  2020-03-20 22:40:56 git status
+  286  2020-03-20 22:40:56 git commit -m "history"
+  287  2020-03-20 22:40:56 dvranga
+  288  2020-03-20 22:40:56 git config --global user.email "you@example.com"
+  289  2020-03-20 22:40:56 git config --global user.email "devangmranganth"
+  290  2020-03-20 22:40:56 git config --global user.name "dvranga"
+  291  2020-03-20 22:40:56 git commit -m "history"
+  292  2020-03-20 22:40:56 $ git remote add origin https://github.com/dvranga/history.git
+  293  2020-03-20 22:40:56 git branch
+  294  2020-03-20 22:40:56 git add .
+  295  2020-03-20 22:40:56 git commit -m "history"
+  296  2020-03-20 22:40:56 cd .
+  297  2020-03-20 22:40:56 pwd
+  298  2020-03-20 22:40:56 ls
+  299  2020-03-20 22:40:56 cd .
+  300  2020-03-20 22:40:56 cd ..
+  301  2020-03-20 22:40:56 ls
+  302  2020-03-20 22:40:56 cd historycopy.txt
+  303  2020-03-20 22:40:56 cd history - Copy
+  304  2020-03-20 22:40:56 ls
+  305  2020-03-20 22:40:56 n
+  306  2020-03-20 22:40:56 \
+  307  2020-03-20 22:40:56 pwd
+  308  2020-03-20 22:40:56 ls
+  309  2020-03-20 22:40:56 /mnt/c/users/heros/Desktop/
+  310  2020-03-20 22:40:56 pwd
+  311  2020-03-20 22:40:56 /mnt/c/users/heros/Desktop
+  312  2020-03-20 22:40:56 cd /mnt/c/users/heros/Desktop
+  313  2020-03-20 22:40:56 pwd
+  314  2020-03-20 22:40:56 cd terminalcommands
+  315  2020-03-20 22:40:56 ls -la
+  316  2020-03-20 22:40:56 ls
+  317  2020-03-20 22:40:56 cd linux-content
+  318  2020-03-20 22:40:56 ls
+  319  2020-03-20 22:40:56 git init
+  320  2020-03-20 22:40:56 git add .
+  321  2020-03-20 22:40:56 git commit
+  322  2020-03-20 22:40:56 git commit -m "history"
+  323  2020-03-20 22:40:56 git status
+  324  2020-03-20 22:40:56 git push origin master
+  325  2020-03-20 22:40:56 pwd
+  326  2020-03-20 22:40:56 cd .
+  327  2020-03-20 22:40:56 ls
+  328  2020-03-20 22:40:56 ls ..
+  329  2020-03-20 22:40:56 cd .
+  330  2020-03-20 22:40:56 cd -
+  331  2020-03-20 22:40:56 cd Desktop
+  332  2020-03-20 22:40:56 cd ..
+  333  2020-03-20 22:40:56 cd -
+  334  2020-03-20 22:40:56 pwd
+  335  2020-03-20 22:40:56 cd 
+  336  2020-03-20 22:40:56 cd /mnt/c/users/heros/Desktop
+  337  2020-03-20 22:40:56 git add .
+  338  2020-03-20 22:40:56 \git init
+  339  2020-03-20 22:40:56 git add .
+  340  2020-03-20 22:40:56 cd history
+  341  2020-03-20 22:40:56 git init
+  342  2020-03-20 22:40:56 git add .
+  343  2020-03-20 22:40:56 git status
+  344  2020-03-20 22:40:56 git commit -m "history"
+  345  2020-03-20 22:40:56 git push origin master
+  346  2020-03-20 22:40:56 git pull origin master
+  347  2020-03-20 22:40:56 nano history.txt
+  348  2020-03-20 13:24:03 pwd
+  349  2020-03-20 13:24:44 cd /mnt/c/users/heros/Desktop
+  350  2020-03-20 13:24:54 cd 20.03.20
+  351  2020-03-20 13:24:59 git init
+  352  2020-03-20 13:25:57 git add .
+  353  2020-03-20 13:26:05 git commit 
+  354  2020-03-20 13:26:18 git commit -m "kjf"
+  355  2020-03-20 13:27:47 git remote add origin https://github.com/dvranga/check.git
+  356  2020-03-20 13:30:08 git remote -v
+  357  2020-03-20 13:32:12 git remote set -url origin git@github.com:ppreyer/first_app.git
+  358  2020-03-20 13:33:34 git remote rm origin
+  359  2020-03-20 13:33:38 git init
+  360  2020-03-20 13:33:50 git push origin github
+  361  2020-03-20 13:34:04 git push origin master
+  362  2020-03-20 13:34:15 git init
+  363  2020-03-20 13:34:20 git add .
+  364  2020-03-20 13:34:24 git status
+  365  2020-03-20 13:34:35 git commit -m "flsd"
+  366  2020-03-20 13:35:10 git remote add origin https://github.com/dvranga/assesment.git
+  367  2020-03-20 13:35:33 git push -u origin master
+  368  2020-03-20 13:41:46 git remote add origin https://github.com/dvranga/check.git
+  369  2020-03-20 13:41:58 git remote add origin https://github.com/dvranga/assessment.git
+  370  2020-03-20 13:42:37 git re
+  371  2020-03-20 13:42:55 git remote rm -v
+  372  2020-03-20 13:43:15 git remote rm origin
+  373  2020-03-20 13:44:54 git remote add origin https://github.com/dvranga/check.git
+  374  2020-03-20 13:45:08 git push origin master
+  375  2020-03-20 13:45:43 git remote rm origin
+  376  2020-03-20 13:46:19 git remote add origin https://github.com/dvranga/assessment.git
+  377  2020-03-20 13:46:32 git push origin master
+  378  2020-03-20 13:47:41 git pull origin master
+  379  2020-03-20 13:48:08 git commit -m "jafsdjf"
+  380  2020-03-20 13:48:16 git pull origin master
+  381  2020-03-20 13:48:41 git merge master
+  382  2020-03-20 13:48:50 git pull origin masster
+  383  2020-03-20 13:49:02 git pull origin master
+  384  2020-03-20 13:49:22 git init
+  385  2020-03-20 13:49:35 cd 20.03.20
+  386  2020-03-20 13:49:39 cd ..
+  387  2020-03-20 13:49:45 cd 20.03.20
+  388  2020-03-20 13:49:58 git remove rm origin
+  389  2020-03-20 13:50:47 git remote rm origin
+  390  2020-03-20 13:50:52 git add .
+  391  2020-03-20 13:51:01 git commit -m "dcsf"
+  392  2020-03-20 13:51:18 git remote add origin https://github.com/dvranga/assessment.git
+  393  2020-03-20 13:51:33 git push origin master
+  394  2020-03-20 13:58:19 git pull --rebase
+  395  2020-03-20 13:59:10 git pull(1) --rebase
+  396  2020-03-20 13:59:19 git push
+  397  2020-03-20 13:59:32 git pull --rebase
+  398  2020-03-20 14:01:41 git pull --rebase origin master
+  399  2020-03-20 14:02:00 git push origin master
+  400  2020-03-20 14:02:59 git remote -v
+  401  2020-03-20 14:04:17 git origin  https://github.com/dvranga/assessment.git
+  402  2020-03-20 14:04:39 origin  https://github.com/dvranga/assessment.git
+  403  2020-03-20 14:06:39 git push -u origin master
+  404  2020-03-20 14:07:23 git pull --rebase origin master
+  405  2020-03-20 14:07:55 git remote rm url
+  406  2020-03-20 14:09:22 git config --global pull.rebase true
+  407  2020-03-20 14:09:47 git config --global rebase.autoStash true
+  408  2020-03-20 14:11:49 git remote set-url yoururl
+  409  2020-03-20 14:13:16 git remote set-url https://github.com/dvranga/assessment.git
+  410  2020-03-20 14:13:35 git remote https://github.com/dvranga/assessment.git
+  411  2020-03-20 14:13:45 git remote set-url https://github.com/dvranga/assessment.git
+  412  2020-03-20 14:14:15 git remote --delete-url https://github.com/dvranga/assessment.git
+  413  2020-03-20 15:05:45 cd /mnt/c/users/heros/Desktop
+  414  2020-03-20 15:07:48 cd 20.03.20
+  415  2020-03-20 15:07:52 ls
+  416  2020-03-20 15:08:32 cd temperatureconversion.sh
+  417  2020-03-20 15:08:49 cd temperature/conversion.sh
+  418  2020-03-20 15:09:19 cd temperature\conversion.sh
+  419  2020-03-20 15:09:38 cd temperatureconversion.sh
+  420  2020-03-20 15:11:01 nano temperatureconversion.sh
+  421  2020-03-20 16:56:43 history > history.txt
+  422  2020-03-20 16:56:53 cat history.txt
+  423  2020-03-20 16:57:07 git init
+  424  2020-03-20 16:57:14 git add .
+  425  2020-03-20 16:57:36 git push -u origin master
+  426  2020-03-20 16:58:31 git remote add github https://github.com/dvranga/assessment.git
+  427  2020-03-20 16:58:48 git push -u origin history
+  428  2020-03-20 16:59:01 git push origin master
+  429  2020-03-20 17:02:05 touch funcTest.sh
+  430  2020-03-20 17:02:14 nano funcTest.sh
+  431  2020-03-20 17:24:45 nano employeeWage.sh
+  432  2020-03-20 17:27:05 chmod +x employeeWage.sh
+  433  2020-03-20 17:27:19 ./ employeeWage.sh
+  434  2020-03-20 17:27:48 ./employeeWage.sh
+  435  2020-03-20 17:28:54 nano employeeWage.sh
+  436  2020-03-20 17:29:05 ./employeeWage.sh
+  437  2020-03-20 17:29:31 git init
+  438  2020-03-20 17:29:35 git add .
+  439  2020-03-20 17:29:45 git commit -m "sdkfj"
+  440  2020-03-20 17:31:31 git remote add origin https://github.com/dvranga/employee.git
+  441  2020-03-20 17:37:15 git init
+  442  2020-03-20 17:37:21 git add .
+  443  2020-03-20 17:37:41 git commit -m "first"
+  444  2020-03-20 17:38:04 git push origin master
+  445  2020-03-20 17:39:23 git push origin master -force
+  446  2020-03-20 17:39:33 git push origin master --force
+  447  2020-03-20 19:26:46 /mnt/c/users/heros/Desktop
+  448  2020-03-20 19:26:53 cd /mnt/c/users/heros/Desktop
+  449  2020-03-20 19:26:57 ls
+  450  2020-03-20 19:27:03 ls -l
+  451  2020-03-20 19:27:12 history.txt
+  452  2020-03-20 19:27:29 cat history.txt
+  453  2020-03-20 19:27:54 cd history
+  454  2020-03-20 19:28:01 cat history.txt
+  455  2020-03-20 19:28:16 history >> history.txt
+  456  2020-03-20 19:28:22 git init
+  457  2020-03-20 19:28:30 git add .
+  458  2020-03-20 19:28:35 git status
+  459  2020-03-20 19:29:04 git commit -m "history"
+  460  2020-03-20 19:31:00 git checkout -b second
+  461  2020-03-20 19:31:14 git push -u origin master
+  462  2020-03-20 19:43:49 git remote v
+  463  2020-03-20 19:44:14 git remote -v
+  464  2020-03-20 19:44:47 pwd
+  465  2020-03-20 19:44:50 ls
+  466  2020-03-20 19:44:55 git add .
+  467  2020-03-20 19:45:04 git push origin master
+  468  2020-03-20 19:50:18 git remote add origin https://github.com/dvranga/employee.git
+  469  2020-03-20 19:50:30 git remote add origin https://github.com/dvranga/employee.git --force
+  470  2020-03-20 19:51:04 cd ..
+  471  2020-03-20 19:51:29 touch testgit.txt
+  472  2020-03-20 19:51:40 nano testgit.txt
+  473  2020-03-20 19:52:11 git push origin master --force
+  474  2020-03-20 19:52:21 git init
+  475  2020-03-20 19:52:33 git add .
+  476  2020-03-20 19:53:02 git testgit.txt
+  477  2020-03-20 19:53:22 mkdir git
+  478  2020-03-20 19:53:37 cp testgit.txt git
+  479  2020-03-20 19:53:43 cd git
+  480  2020-03-20 19:53:45 ls
+  481  2020-03-20 19:53:54 git init
+  482  2020-03-20 19:54:48 git add .
+  483  2020-03-20 19:54:54 git status
+  484  2020-03-20 19:55:11 git commit -m "first commit"
+  485  2020-03-20 19:55:31 git push -u origin master
+  486  2020-03-20 19:56:35 git remote add origin https://github.com/dvranga/employee.git
+  487  2020-03-20 19:56:47 git push -u origin master
+  488  2020-03-20 19:57:21 git pull origin master
+  489  2020-03-20 19:57:37 cat testgit.txt
+  490  2020-03-20 19:57:53 cd ..
+  491  2020-03-20 19:57:59 cd history
+  492  2020-03-20 19:58:03 git init
+  493  2020-03-20 19:58:08 git add .
+  494  2020-03-20 19:58:20 git status
+  495  2020-03-20 19:58:49 git checkout branch
+  496  2020-03-20 19:59:08 checkout branch
+  497  2020-03-20 19:59:20 git checkout branch
+  498  2020-03-20 19:59:27 git branch
+  499  2020-03-20 20:00:24 git rm -r second
+  500  2020-03-20 20:00:51 git merger master
+  501  2020-03-20 20:01:12 git push origin second
+  502  2020-03-20 20:01:44 git push origin second --force
+  503  2020-03-20 21:27:05 mkdir daily
+  504  2020-03-20 21:27:21 rm -r daily
+  505  2020-03-20 21:27:46 cd /mnt/c/users/heros/Desktop
+  506  2020-03-20 21:27:57 mkdir daily
+  507  2020-03-20 21:28:05 cd daily
+  508  2020-03-20 21:28:27 touch practise.txt
+  509  2020-03-20 21:28:44 history >> practise.txt
+  510  2020-03-20 21:29:13 cat practise.txt
+  511  2020-03-20 21:30:48 git init
+  512  2020-03-20 21:31:00 git add .
+  513  2020-03-20 21:31:13 git status
+  514  2020-03-20 21:32:29 git commit -m "firtcommit"
+  515  2020-03-20 21:35:05 git remote add origin https://github.com/dvranga/bridgelabz.git
+  516  2020-03-20 21:35:41 git push -u origin master
+  517  2020-03-20 21:38:45 mkdir firstday
+  518  2020-03-20 21:39:04 rm -r firstday
+  519  2020-03-20 21:39:06 cd ..
+  520  2020-03-20 21:39:18 mkdir firstday
+  521  2020-03-20 21:39:24 cd firstday
+  522  2020-03-20 21:40:29 cp 20.03.20 firstday
+  523  2020-03-20 21:40:45 cd ..
+  524  2020-03-20 21:41:05 cp 20.03.20 firstday
+  525  2020-03-20 21:43:59 cd firstday
+  526  2020-03-20 21:44:03 git init
+  527  2020-03-20 21:44:23 git add .
+  528  2020-03-20 21:44:52 git commit -m "homework"
+  529  2020-03-20 21:45:29 git push -u origin master
+  530  2020-03-20 21:45:58 ls
+  531  2020-03-20 21:46:08 nano hello.sh
+  532  2020-03-20 21:48:51 cd /mnt/c/users/heros/Desktop
+  533  2020-03-20 21:48:58 cd work
+  534  2020-03-20 21:49:05 git init
+  535  2020-03-20 21:49:12 git add .
+  536  2020-03-20 21:50:40 cd ..
+  537  2020-03-20 21:50:51 mkdir ranga
+  538  2020-03-20 21:58:56 mkdir do
+  539  2020-03-20 21:58:59 cd do
+  540  2020-03-20 21:59:07 touch doit.txt
+  541  2020-03-20 21:59:13 nano doit
+  542  2020-03-20 21:59:34 ls
+  543  2020-03-20 22:00:28 rm -r doit
+  544  2020-03-20 22:00:31 ls
+  545  2020-03-20 22:00:37 pwd
+  546  2020-03-20 22:00:42 ls
+  547  2020-03-20 22:00:51 nano doit.txt
+  548  2020-03-20 22:01:05 ls
+  549  2020-03-20 22:01:19 cat doit.txt
+  550  2020-03-20 22:01:25 git init
+  551  2020-03-20 22:01:33 git add .
+  552  2020-03-20 22:01:40 git status
+  553  2020-03-20 22:01:54 git commit -m "ranga"
+  554  2020-03-20 22:02:50 git remote add origin master https://github.com/dvranga/ranga.git
+  555  2020-03-20 22:04:17 git remote add origin https://github,com/dvranga/ranga.git
+  556  2020-03-20 22:04:26 git push origin master
+  557  2020-03-20 22:04:51 git push -u origin master
+  558  2020-03-20 22:05:04 git add .
+  559  2020-03-20 22:05:16 git commit -m "jsaf"
+  560  2020-03-20 22:05:32 git push origin master
+  561  2020-03-20 22:06:28 cd ..
+  562  2020-03-20 22:06:36 rm -r do
+  563  2020-03-20 22:06:56 mkdir abc
+  564  2020-03-20 22:07:09 cd abc
+  565  2020-03-20 22:07:26 touch def.txt
+  566  2020-03-20 22:07:32 git init
+  567  2020-03-20 22:07:45 git commit -m "jdfsl"
+  568  2020-03-20 22:08:06 git push origin master
+  569  2020-03-20 22:08:22 rm -r def.txt
+  570  2020-03-20 22:08:33 touch ddd.txt
+  571  2020-03-20 22:09:06 nano ddd.txt
+  572  2020-03-20 22:09:27 cd .
+  573  2020-03-20 22:09:30 cd ..
+  574  2020-03-20 22:09:34 git init
+  575  2020-03-20 22:09:46 git add abc
+  576  2020-03-20 22:10:03 git commit -m "sdfj"
+  577  2020-03-20 22:10:13 git push origin master
+  578  2020-03-20 22:11:35 cd abc
+  579  2020-03-20 22:11:39 git init
+  580  2020-03-20 22:11:54 pwd
+  581  2020-03-20 22:12:27 git checkout -b please
+  582  2020-03-20 22:12:36 git branch
+  583  2020-03-20 22:12:54 git checkout branch
+  584  2020-03-20 22:13:10 git branch
+  585  2020-03-20 22:13:19 git branch master
+  586  2020-03-20 22:13:41 git checkout please
+  587  2020-03-20 22:13:46 pwd
+  588  2020-03-20 22:41:08 git init
+  589  2020-03-20 22:41:30 cd /mnt/c/users/heros/Desktop
+  590  2020-03-20 22:41:40 cd history
+  591  2020-03-20 22:41:43 ls
+  592  2020-03-20 22:41:55 cd history.txt
+  593  2020-03-20 22:42:23 git init
+  594  2020-03-20 22:42:32 git add .
+  595  2020-03-20 22:42:49 git commit -m "first commit"
+  596  2020-03-20 22:43:35 git remote add origin https://github.com/dvranga/new.git
+  597  2020-03-20 22:43:53 git push -u origin master
+  598  2020-03-20 22:44:23 git add .
+  599  2020-03-20 22:44:35 git push origin master
+  600  2020-03-20 22:45:04 git push origin master --force
+  601  2020-03-20 22:48:31 mkdir gg
+  602  2020-03-20 22:48:34 cd gg
+  603  2020-03-20 22:48:47 his.txt
+  604  2020-03-20 22:49:00 touch his.txt
+  605  2020-03-20 22:49:12 history >> history.txt
